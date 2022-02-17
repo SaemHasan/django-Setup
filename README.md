@@ -26,8 +26,7 @@ IDE : Pycharm
 5. to check
 >> django-admin --version
 
-ref link : https://www.howtoforge.com/tutorial/how-to-install-django-on-ubuntu/
-
+[ref link](https://www.howtoforge.com/tutorial/how-to-install-django-on-ubuntu/)
 
 
 //set up in Pycharm
@@ -175,9 +174,7 @@ in the firstline of html code
 then in js and css and images files
 
 update link, script, image tags like this===>
-
-
- <link rel="stylesheet" href="assets/css/main.css" /> 
+<link rel="stylesheet" href="assets/css/main.css" /> 
 
 update this to: 
 
